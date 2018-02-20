@@ -2,7 +2,9 @@
 Help a kid go play outside!
 
 
-#this is designed to be a room escape style game and a tool for learning more about redux and interactive stateful applications
+# room escape style choose your own adventure
+
+This project is intended to teach us more about how to use redux in a context.
 
 
 Made by Brian and Hayden
